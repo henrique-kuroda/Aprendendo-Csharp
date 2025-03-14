@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-public class HelloWorld
+public class Program
 {
     public static void Main(string[] args)
     {
