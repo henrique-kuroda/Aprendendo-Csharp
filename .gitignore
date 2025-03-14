@@ -1,0 +1,11 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.pdb
+*.pidb
